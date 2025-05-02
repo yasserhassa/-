@@ -10,6 +10,7 @@ body{
 
 
 img{
+justify-content: center;
     border: #25212F 6px solid;
     border-radius: 50pc;
     width: 50%;
